@@ -36,8 +36,8 @@ Please download the trained <a href = "https://drive.google.com/file/d/1qgXJ0eSu
 
 ## Result Analysis
 
-- Confusion Matrix
-<img src = "assets/Screenshot 2021-11-17 172659.jpg" height = 200px width = 200px>
+- Confusion Matrix                                         - ROC_Curve
+<img src = "assets/Screenshot 2021-11-17 172659.jpg" height = 200px width = 200px><img src = "assets/Screenshot 2021-11-17 173511.jpg" height = 200px width = 200px>
 
-- ROC_Curve
-<img src = "assets/Screenshot 2021-11-17 173511.jpg" height = 200px width = 200px>
+
+
