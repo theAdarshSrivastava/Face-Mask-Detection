@@ -37,7 +37,7 @@ Please download the trained <a href = "https://drive.google.com/file/d/1qgXJ0eSu
 ## Result Analysis
 
 - Confusion Matrix and ROC_Curve
-<img src = "assets/Screenshot 2021-11-17 183734.jpg" align="center" height = 400px width = 900px>
+<img src = "assets/Screenshot 2021-11-17 183734.jpg" align="center" height = 300px width = 600px>
 
 
 ## Contributors
