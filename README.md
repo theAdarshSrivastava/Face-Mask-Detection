@@ -9,10 +9,10 @@ The dataset maybe accessed <a href = "https://drive.google.com/drive/folders/1Ma
 ## Model Architecture
 <img src = "assets/model.png" height = 600px width = 400px>
 
-The model in .h5 format may be downloaded from <a href = "https://drive.google.com/file/d/161FyMUewCUbKtiBaMTc87oGY7qtPRMYp/view?usp=sharing">here</a>.
+The model in .h5 format may be downloaded from <a href = "https://drive.google.com/file/d/1qgXJ0eSur-Ezh_tmxxD920LJef-J4icT/view?usp=sharing">here</a>.
 
 ## Usage
-Please download the trained <a href = "https://drive.google.com/drive/folders/1MaU49YgSFBqGbMVImh6k6f__q-_mowck?usp=sharing">model</a> and move it to a directory names *models*. Please ensure that the path to model is *"models/model.h5"*.
+Please download the trained <a href = "https://drive.google.com/file/d/1qgXJ0eSur-Ezh_tmxxD920LJef-J4icT/view?usp=sharing">model</a> and move it to a directory names *models*. Please ensure that the path to model is *"classify_model.h5"*.
 
 - Cloning the Repository: 
 
