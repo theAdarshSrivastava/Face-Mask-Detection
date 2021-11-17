@@ -42,6 +42,5 @@ Please download the trained <a href = "https://drive.google.com/file/d/1qgXJ0eSu
 
 ## Contributors
 
-| <p>![Ankit Mathur](https://github.com/am9964.png?size=32)<br>[Ankit Mathur](https://github.com/am9964)</p><p>![Adarsh Srivastava](https://github.com/theAdarshSrivastava.png?size=128)<br>[Adarsh Srivastava](https://github.com/theAdarshSrivastava)</p>|
-| ---------------------------------------------------------------------------------------------------------------------------------------------- |
+<a href="https://github.com/am9964/Face-Mask-Detection/graphs/contributors">
 
