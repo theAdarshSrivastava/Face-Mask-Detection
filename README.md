@@ -40,4 +40,8 @@ Please download the trained <a href = "https://drive.google.com/file/d/1qgXJ0eSu
 <img src = "assets/Screenshot 2021-11-17 183734.jpg" align="center" height = 400px width = 900px>
 
 
+## Contributors
+
+| <p>![Ankit Mathur](https://github.com/am9964.png?size=128)<br>[Ankit Mathur](https://github.com/am9964)</p><p>![Adarsh Srivastava](https://github.com/theAdarshSrivastava.png?size=128)<br>[Adarsh Srivastava](https://github.com/theAdarshSrivastava)</p>|
+| ---------------------------------------------------------------------------------------------------------------------------------------------- |
 
