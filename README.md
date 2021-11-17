@@ -42,5 +42,5 @@ Please download the trained <a href = "https://drive.google.com/file/d/1qgXJ0eSu
 
 ## Contributors
 
-<a href="https://github.com/am9964/Face-Mask-Detection/graphs/contributors">
+<a href="https://github.com/am9964/Face-Mask-Detection/graphs/contributors"></a>
 
