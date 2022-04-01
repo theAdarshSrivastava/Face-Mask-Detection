@@ -49,4 +49,3 @@ https://user-images.githubusercontent.com/66861243/117566631-59708100-b0d5-11eb-
 
 - [Ankit Mathur](https://github.com/am9964)
 - [Adarsh Srivastava](https://github.com/theAdarshSrivastava)
-- [Aditi Verma](https://github.com/theAdarshSrivastava)
